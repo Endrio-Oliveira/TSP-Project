@@ -12,7 +12,7 @@ Este é o meu primeiro projeto em Python que aborda um problema real. Espero que
 
 Created by Endrio Marcos de Liz Oliveira
 
-I developed this project with the aim of solving the Traveling Salesman Problem (TSP).
+I developed this project with the idea of solving the Traveling Salesman Problem (TSP).
 
 This problem involves determining the most efficient route among N addresses.
 I have devised three strategies to achieve this goal, with the first one being the simplest but less efficient.
